@@ -17,5 +17,6 @@
     "jquery",
     "jquery.responsive-slides"
   ],
+  "ignore": "",
   "license": "MIT"
 }
